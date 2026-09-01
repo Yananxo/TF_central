@@ -1,5 +1,5 @@
 ## Overview  
-Companion to **“Multiomics gene regulatory network analysis reveals the distinct roles of chromatin architectural factors in gene expression regulation”**
+Companion to **“Multiomics gene regulatory network analysis reveals the distinct roles of chromatin structural factors in transcription regulation”**
 
 This repository provides code for:
 - Gene regulatory networks (GRNs) construction  
